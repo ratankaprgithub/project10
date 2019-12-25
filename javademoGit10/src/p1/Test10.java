@@ -8,6 +8,8 @@ public class Test10 {
 	
 	public static void main(String[] args) {
 
+		System.out.println("start of main...");
+		
 		new Test10().fun1();
 		
 		System.out.println("End of Main...");
